@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "5.0",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v5.0/fitness-poushka-lova-lova-5.0-36.apk",
-  "notes": "17 exercices ajoutes : abdos au sol, omoplates au sol, et le programme Kine - Bas du corps."
+  "versionCode": 37,
+  "versionName": "5.1",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v5.1/fitness-poushka-lova-lova-5.1-37.apk",
+  "notes": "Correction : la recherche de mise a jour ne lit plus une reponse mise en cache."
 }
