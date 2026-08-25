@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "5.1",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v5.1/fitness-poushka-lova-lova-5.1-37.apk",
-  "notes": "Correction : la recherche de mise a jour ne lit plus une reponse mise en cache."
+  "versionCode": 38,
+  "versionName": "5.2",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v5.2/fitness-poushka-lova-lova-5.2-38.apk",
+  "notes": "Correction du demarrage : reparation d'un numero de version de base brule par la 4.7."
 }
