@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "5.9",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v5.9/fitness-poushka-lova-lova-5.9-45.apk",
-  "notes": "Illustrations de programmes sur les cartes. Onglet Resume dans Progression. Historique des seances kine. Moins de doublons dans la navigation."
+  "versionCode": 46,
+  "versionName": "6.0",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.0/fitness-poushka-lova-lova-6.0-46.apk",
+  "notes": "Revue UX complete : saisie de seance conservee si l'appli est tuee, kine exclue du calendrier, contrastes corriges, doublons de navigation supprimes, editeur qui vise bien le programme ouvert."
 }
