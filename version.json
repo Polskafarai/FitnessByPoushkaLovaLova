@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "5.7",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v5.7/fitness-poushka-lova-lova-5.7-43.apk",
-  "notes": "Le protocole kine s'execute par blocs, exercice par exercice, avec les repos exacts."
+  "versionCode": 44,
+  "versionName": "5.8",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v5.8/fitness-poushka-lova-lova-5.8-44.apk",
+  "notes": "Onglet Programmes : voir, lancer, editer. Progression regroupe niveaux, objectifs, Exploits et calendrier. Ordre kine : fente, pont, ballon, combo, chaise."
 }
