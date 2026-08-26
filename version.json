@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "6.0",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.0/fitness-poushka-lova-lova-6.0-46.apk",
-  "notes": "Revue UX complete : saisie de seance conservee si l'appli est tuee, kine exclue du calendrier, contrastes corriges, doublons de navigation supprimes, editeur qui vise bien le programme ouvert."
+  "versionCode": 47,
+  "versionName": "6.1",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.1/fitness-poushka-lova-lova-6.1-47.apk",
+  "notes": "Correctif : VALIDER n'est plus bloque quand le RIR n'a pas ete donne."
 }
