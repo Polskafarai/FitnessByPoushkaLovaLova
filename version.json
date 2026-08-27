@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "6.2",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.2/fitness-poushka-lova-lova-6.2-48.apk",
-  "notes": "Bibliotheque en liste illustree, illustration partout ou un exercice est nomme, fiche du personnage avec ses badges, calendrier du mois dans le resume, calories, et correctif de la voix qui n'annoncait pas le nom de l'exercice."
+  "versionCode": 49,
+  "versionName": "6.3",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.3/fitness-poushka-lova-lova-6.3-49.apk",
+  "notes": "Bip de fin de timer adouci et desature. Onglet Resume : personnage, evolution des 13 stades, badges obtenus et compteurs depuis la premiere seance."
 }
