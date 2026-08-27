@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "6.3",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.3/fitness-poushka-lova-lova-6.3-49.apk",
-  "notes": "Bip de fin de timer adouci et desature. Onglet Resume : personnage, evolution des 13 stades, badges obtenus et compteurs depuis la premiere seance."
+  "versionCode": 50,
+  "versionName": "6.4",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.4/fitness-poushka-lova-lova-6.4-50.apk",
+  "notes": "Progression par muscle : chaque muscle, ses niveaux gagnes et les exercices qui le travaillent, avec leur role."
 }
