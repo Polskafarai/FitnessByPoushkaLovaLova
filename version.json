@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "6.7",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.7/fitness-poushka-lova-lova-6.7-53.apk",
-  "notes": "Badges cliquables, le perso de l'accueil mene a sa fiche, progression par zone simplifiee, et chiffres corriges : plus de tonnes trompeuses."
+  "versionCode": 54,
+  "versionName": "6.8",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v6.8/fitness-poushka-lova-lova-6.8-54.apk",
+  "notes": "Illustrations animees : les 68 exercices bougent enfin. 34 d'entre eux ont une animation anatomique avec les muscles sollicites en rouge. La bibliotheque passe de 44 a 9,6 Mo."
 }
