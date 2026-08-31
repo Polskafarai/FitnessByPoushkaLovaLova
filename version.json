@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "7.3",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v7.3/fitness-poushka-lova-lova-7.3-59.apk",
-  "notes": "La jauge de telechargement suit les octets et affiche la taille."
+  "versionCode": 60,
+  "versionName": "7.4",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v7.4/fitness-poushka-lova-lova-7.4-60.apk",
+  "notes": "Le poids souleve etait divise par deux sur tous les exercices a deux halteres. Corrige, avec six autres compteurs."
 }
