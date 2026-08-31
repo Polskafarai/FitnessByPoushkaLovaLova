@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "7.4",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v7.4/fitness-poushka-lova-lova-7.4-60.apk",
-  "notes": "Le poids souleve etait divise par deux sur tous les exercices a deux halteres. Corrige, avec six autres compteurs."
+  "versionCode": 61,
+  "versionName": "7.5",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v7.5/fitness-poushka-lova-lova-7.5-61.apk",
+  "notes": "Le kine ne donne plus d experience au personnage. Le passage de niveau saffiche. Une seance ouverte ne se reprend plus le lendemain."
 }
