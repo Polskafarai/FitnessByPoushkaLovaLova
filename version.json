@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "7.2",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v7.2/fitness-poushka-lova-lova-7.2-58.apk",
-  "notes": "Onglet Corps : la carte des territoires. Une absence ne reduit plus les cibles."
+  "versionCode": 59,
+  "versionName": "7.3",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v7.3/fitness-poushka-lova-lova-7.3-59.apk",
+  "notes": "La jauge de telechargement suit les octets et affiche la taille."
 }
