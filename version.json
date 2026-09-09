@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "8.0",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v8.0/fitness-poushka-lova-lova-8.0-66.apk",
-  "notes": "Duree sur les cartes et mannequin des muscles travailles sur la fiche."
+  "versionCode": 67,
+  "versionName": "8.1",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v8.1/fitness-poushka-lova-lova-8.1-67.apk",
+  "notes": "Plus de sortie de lapplication en validant un exercice. Repos retabli entre les exercices du protocole. Chronometre de seance."
 }
