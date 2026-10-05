@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "8.6",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v8.6/fitness-poushka-lova-lova-8.6-72.apk",
-  "notes": "Enchaînement des séances corrigé : tractions toutes à la barre avant le sol, plus de pause sautée, plus d'exercice sauté par un double appui ou en fin de repos. Rowing et autres exercices d'un côté puis de l'autre en une seule étape."
+  "versionCode": 73,
+  "versionName": "8.7",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v8.7/fitness-poushka-lova-lova-8.7-73.apk",
+  "notes": "Statistiques : le poids déplacé avec les haltères est détaillé exercice par exercice (répétitions × poids d'un haltère × haltères). Plus aucune séance réduite après une absence."
 }
