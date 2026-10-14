@@ -1,6 +1,6 @@
 {
-  "versionCode": 74,
-  "versionName": "8.8",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v8.8/fitness-poushka-lova-lova-8.8-74.apk",
-  "notes": "Bloc barre en tours : exercice 1, 30 s, exercice 2, 1 min, puis on recommence, autant de tours que le circuit."
+  "versionCode": 75,
+  "versionName": "8.9",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v8.9/fitness-poushka-lova-lova-8.9-75.apk",
+  "notes": "Le RIR fait foi : après chaque séance, la cible suivante = ton réalisé + ton RIR - 2, en hausse comme en baisse. Les cibles ajustées s'affichent en fin de séance."
 }
