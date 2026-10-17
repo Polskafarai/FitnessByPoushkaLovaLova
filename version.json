@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "8.9",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v8.9/fitness-poushka-lova-lova-8.9-75.apk",
-  "notes": "Le RIR fait foi : après chaque séance, la cible suivante = ton réalisé + ton RIR - 2, en hausse comme en baisse. Les cibles ajustées s'affichent en fin de séance."
+  "versionCode": 76,
+  "versionName": "9.0",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v9.0/fitness-poushka-lova-lova-9.0-76.apk",
+  "notes": "Correctif : les cibles se mettent vraiment à jour d'après ta dernière séance et ton RIR. La détection de fatigue, qui gelait toutes les cibles, ne bloque plus rien. Une séance abandonnée compte aussi pour les exercices faits."
 }
