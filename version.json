@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "9.0",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v9.0/fitness-poushka-lova-lova-9.0-76.apk",
-  "notes": "Correctif : les cibles se mettent vraiment à jour d'après ta dernière séance et ton RIR. La détection de fatigue, qui gelait toutes les cibles, ne bloque plus rien. Une séance abandonnée compte aussi pour les exercices faits."
+  "versionCode": 77,
+  "versionName": "9.1",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v9.1/fitness-poushka-lova-lova-9.1-77.apk",
+  "notes": "Nouveau programme Core performance — Ski, escalade & abdos : 14 minutes, 2 tours de 7 exercices, 40 s de travail et 20 s de transition qui s'enchaînent tout seuls."
 }
