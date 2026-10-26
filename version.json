@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "9.4",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v9.4/fitness-poushka-lova-lova-9.4-80.apk",
-  "notes": "Core performance en répétitions : chaque exercice suit sa propre cible réglée par ton RIR, 30 s entre chaque exercice."
+  "versionCode": 81,
+  "versionName": "9.5",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v9.5/fitness-poushka-lova-lova-9.5-81.apk",
+  "notes": "Core performance : 1 min 30 de repos entre deux exercices. Exercices des deux côtés : la cible s'affiche par côté (ex. 20 à droite, puis 20 à gauche)."
 }
