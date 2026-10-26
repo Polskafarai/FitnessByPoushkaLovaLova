@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "9.3",
-  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v9.3/fitness-poushka-lova-lova-9.3-79.apk",
-  "notes": "Core performance : le maintien sur banc est un seul maintien continu à ta propre cible (réglée par ton RIR). Les 3 x 8 s, restes de la séance-test, sont supprimés."
+  "versionCode": 80,
+  "versionName": "9.4",
+  "url": "https://github.com/Polskafarai/FitnessByPoushkaLovaLova/releases/download/v9.4/fitness-poushka-lova-lova-9.4-80.apk",
+  "notes": "Core performance en répétitions : chaque exercice suit sa propre cible réglée par ton RIR, 30 s entre chaque exercice."
 }
